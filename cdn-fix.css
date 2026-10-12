@@ -1,0 +1,1 @@
+.bank-dot img{display:none!important}.bank-dot::after{display:block;width:18px;height:18px;background-position:center;background-size:contain;background-repeat:no-repeat;font-size:0}.bank-dot.kasikorn::after{content:"";background-image:url("assets/kasikorn-icon.jpg")}.bank-dot.wallet::after{content:"";background-image:url("assets/truemoney-icon.jpg")}
